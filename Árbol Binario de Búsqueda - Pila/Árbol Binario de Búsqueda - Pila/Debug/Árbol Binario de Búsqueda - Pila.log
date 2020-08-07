@@ -1,0 +1,4 @@
+﻿  Árbol Binario de Búsqueda - Pila.cpp
+C:\Users\rafxar\source\repos\Árbol Binario de Búsqueda - Pila\Árbol Binario de Búsqueda - Pila\Árbol Binario de Búsqueda - Pila.cpp(210): warning C4715: 'pila<int>::poprear': no todas las rutas de acceso de control devuelven un valor
+C:\Users\rafxar\source\repos\Árbol Binario de Búsqueda - Pila\Árbol Binario de Búsqueda - Pila\Árbol Binario de Búsqueda - Pila.cpp(192): warning C4715: 'pila<int>::pop': no todas las rutas de acceso de control devuelven un valor
+  Árbol Binario de Búsqueda - Pila.vcxproj -> C:\Users\rafxar\source\repos\Árbol Binario de Búsqueda - Pila\Debug\Árbol Binario de Búsqueda - Pila.exe

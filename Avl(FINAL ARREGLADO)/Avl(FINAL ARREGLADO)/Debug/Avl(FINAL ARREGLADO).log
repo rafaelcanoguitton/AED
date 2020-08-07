@@ -1,0 +1,4 @@
+﻿  Avl(FINAL ARREGLADO).cpp
+C:\Users\rafxar\source\repos\Avl(FINAL ARREGLADO)\Avl(FINAL ARREGLADO)\Avl(FINAL ARREGLADO).cpp(497): warning C4715: 'pila<int>::poprear': no todas las rutas de acceso de control devuelven un valor
+C:\Users\rafxar\source\repos\Avl(FINAL ARREGLADO)\Avl(FINAL ARREGLADO)\Avl(FINAL ARREGLADO).cpp(479): warning C4715: 'pila<int>::pop': no todas las rutas de acceso de control devuelven un valor
+  Avl(FINAL ARREGLADO).vcxproj -> C:\Users\rafxar\source\repos\Avl(FINAL ARREGLADO)\Debug\Avl(FINAL ARREGLADO).exe

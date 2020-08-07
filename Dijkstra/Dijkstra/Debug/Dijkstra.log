@@ -1,0 +1,149 @@
+﻿  Dijkstra.cpp
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(241,22): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(241,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(242,22): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(242,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(243,22): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(243,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(244,22): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(244,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(245,22): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(245,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(246,22): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(246,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(247,22): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(247,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(248,22): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(248,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(249,22): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(249,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(250,22): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(250,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(251,22): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(251,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(260,33): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(260,23): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(261,34): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(261,24): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(261,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(262,34): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(262,24): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(262,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(264,33): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(264,23): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(265,33): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(265,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(266,33): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(266,23): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(267,34): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(267,24): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(267,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(268,34): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(268,24): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(268,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(269,34): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(269,24): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(269,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(270,34): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(270,24): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(270,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(271,34): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(271,24): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(271,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(274,33): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(274,23): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(275,34): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(275,24): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(275,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(276,34): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(276,24): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(276,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(277,34): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(277,24): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(277,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(278,34): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(278,24): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(278,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(285,33): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(285,23): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(286,34): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(286,24): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(286,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(287,34): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(287,24): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(287,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(289,33): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(289,23): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(290,33): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(290,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(291,33): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(291,23): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(292,34): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(292,24): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(292,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(293,34): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(293,24): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(293,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(294,34): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(294,24): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(294,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(295,34): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(295,24): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(295,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(296,34): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(296,24): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(296,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(299,33): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(299,23): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(300,34): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(300,24): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(300,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(301,34): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(301,24): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(301,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(302,34): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(302,24): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(302,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(303,34): warning C4305: 'argumento': truncamiento de 'int' a 'char'
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(303,24): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(303,18): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(207,2): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(201): message : al compilar la función del miembro clase plantilla "std::vector<Cam<CGraph<char,int>>,std::allocator<Cam<CGraph<char,int>>>> CGraph<char,int>::Dikjstra(char)"
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(307): message : Vea la referencia a la creación de una instancia de la función plantilla "std::vector<Cam<CGraph<char,int>>,std::allocator<Cam<CGraph<char,int>>>> CGraph<char,int>::Dikjstra(char)" que se está compilando
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(230): message : Vea la referencia a la creación de una instancia de clase plantilla "CGraph<char,int>" que se está compilando
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(142,2): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(141): message : al compilar la función del miembro clase plantilla "void CGraph<char,int>::imprimir_edge(void)"
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(304): message : Vea la referencia a la creación de una instancia de la función plantilla "void CGraph<char,int>::imprimir_edge(void)" que se está compilando
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(143,2): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(137,2): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(136): message : al compilar la función del miembro clase plantilla "void CGraph<char,int>::imprimir_nodos(void)"
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(252): message : Vea la referencia a la creación de una instancia de la función plantilla "void CGraph<char,int>::imprimir_nodos(void)" que se está compilando
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(218,2): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(217): message : al compilar la función del miembro clase plantilla "void CGraph<char,int>::imp_vec(std::vector<Cam<CGraph<char,int>>,std::allocator<Cam<CGraph<char,int>>>>)"
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(214): message : Vea la referencia a la creación de una instancia de la función plantilla "void CGraph<char,int>::imp_vec(std::vector<Cam<CGraph<char,int>>,std::allocator<Cam<CGraph<char,int>>>>)" que se está compilando
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(192,2): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(187): message : al compilar la función del miembro clase plantilla "void CGraph<char,int>::busqueda(std::vector<Cam<CGraph<char,int>>,std::allocator<Cam<CGraph<char,int>>>> &,CNode<CGraph<char,int>> *,CEdge<CGraph<char,int>> *)"
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(209): message : Vea la referencia a la creación de una instancia de la función plantilla "void CGraph<char,int>::busqueda(std::vector<Cam<CGraph<char,int>>,std::allocator<Cam<CGraph<char,int>>>> &,CNode<CGraph<char,int>> *,CEdge<CGraph<char,int>> *)" que se está compilando
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(172,2): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(168): message : al compilar la función del miembro clase plantilla "void CGraph<char,int>::nivelar(std::vector<Cam<CGraph<char,int>>,std::allocator<Cam<CGraph<char,int>>>> &)"
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(213): message : Vea la referencia a la creación de una instancia de la función plantilla "void CGraph<char,int>::nivelar(std::vector<Cam<CGraph<char,int>>,std::allocator<Cam<CGraph<char,int>>>> &)" que se está compilando
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(173,2): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(76,2): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(75): message : al compilar la función del miembro clase plantilla "bool CGraph<char,int>::search_arista(int,int)"
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(94): message : Vea la referencia a la creación de una instancia de la función plantilla "bool CGraph<char,int>::search_arista(int,int)" que se está compilando
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(58,2): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(57): message : al compilar la función del miembro clase plantilla "bool CGraph<char,int>::buscar_nodo(char,int &)"
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(204): message : Vea la referencia a la creación de una instancia de la función plantilla "bool CGraph<char,int>::buscar_nodo(char,int &)" que se está compilando
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(40,2): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(38): message : al compilar la función del miembro clase plantilla "void Cam<CGraph<char,int>>::imprimir(void)"
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(219): message : Vea la referencia a la creación de una instancia de la función plantilla "void Cam<CGraph<char,int>>::imprimir(void)" que se está compilando
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(205): message : Vea la referencia a la creación de una instancia de clase plantilla "Cam<CGraph<char,int>>" que se está compilando
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(201): message : al compilar la función del miembro clase plantilla "std::vector<Cam<CGraph<char,int>>,std::allocator<Cam<CGraph<char,int>>>> CGraph<char,int>::Dikjstra(char)"
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(307): message : Vea la referencia a la creación de una instancia de la función plantilla "std::vector<Cam<CGraph<char,int>>,std::allocator<Cam<CGraph<char,int>>>> CGraph<char,int>::Dikjstra(char)" que se está compilando
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(161,2): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(160): message : al compilar la función del miembro clase plantilla "bool CGraph<char,int>::bus_rec(Cam<CGraph<char,int>>,CNode<CGraph<char,int>> *)"
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(194): message : Vea la referencia a la creación de una instancia de la función plantilla "bool CGraph<char,int>::bus_rec(Cam<CGraph<char,int>>,CNode<CGraph<char,int>> *)" que se está compilando
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(155,2): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(154): message : al compilar la función del miembro clase plantilla "Cam<CGraph<char,int>> CGraph<char,int>::camino(std::vector<Cam<CGraph<char,int>>,std::allocator<Cam<CGraph<char,int>>>>,CNode<CGraph<char,int>> *)"
+C:\Users\rafxar\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(188): message : Vea la referencia a la creación de una instancia de la función plantilla "Cam<CGraph<char,int>> CGraph<char,int>::camino(std::vector<Cam<CGraph<char,int>>,std::allocator<Cam<CGraph<char,int>>>>,CNode<CGraph<char,int>> *)" que se está compilando
+  Dijkstra.vcxproj -> C:\Users\rafxar\source\repos\Dijkstra\Debug\Dijkstra.exe

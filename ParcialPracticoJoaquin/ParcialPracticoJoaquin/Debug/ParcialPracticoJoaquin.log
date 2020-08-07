@@ -1,0 +1,3 @@
+﻿  ParcialPracticoJoaquin.cpp
+c:\users\rafxar\source\repos\parcialpracticojoaquin\parcialpracticojoaquin\parcialpracticojoaquin.cpp(207): error C4716: 'List<int,Less<int> >::Print': must return a value
+c:\users\rafxar\source\repos\parcialpracticojoaquin\parcialpracticojoaquin\parcialpracticojoaquin.cpp(124): error C4716: 'List_Circular<int,Less<int> >::Print': must return a value

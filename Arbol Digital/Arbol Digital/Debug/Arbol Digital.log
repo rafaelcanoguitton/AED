@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Arbol Digital.cpp
+c:\users\rafxar\source\repos\arbol digital\arbol digital\arbol digital.cpp(85): warning C4715: 'digitalT::insert': not all control paths return a value
+  Arbol Digital.vcxproj -> C:\Users\rafxar\source\repos\Arbol Digital\Debug\Arbol Digital.exe

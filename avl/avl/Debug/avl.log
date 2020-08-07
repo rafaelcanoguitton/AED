@@ -1,0 +1,4 @@
+﻿  avl.cpp
+C:\Users\rafxar\source\repos\avl\avl\avl.cpp(243): warning C4715: 'pila<int>::poprear': no todas las rutas de acceso de control devuelven un valor
+C:\Users\rafxar\source\repos\avl\avl\avl.cpp(225): warning C4715: 'pila<int>::pop': no todas las rutas de acceso de control devuelven un valor
+  avl.vcxproj -> C:\Users\rafxar\source\repos\avl\Debug\avl.exe

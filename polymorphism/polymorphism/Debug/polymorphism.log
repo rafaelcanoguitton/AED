@@ -1,0 +1,4 @@
+﻿  polymorphism.cpp
+c:\users\rafxar\source\repos\polymorphism\polymorphism\polymorphism.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\rafxar\source\repos\polymorphism\polymorphism\polymorphism.cpp(96): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  polymorphism.vcxproj -> C:\Users\rafxar\source\repos\polymorphism\Debug\polymorphism.exe

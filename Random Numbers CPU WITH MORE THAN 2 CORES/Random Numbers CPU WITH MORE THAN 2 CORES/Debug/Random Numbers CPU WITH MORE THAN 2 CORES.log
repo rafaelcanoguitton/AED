@@ -1,0 +1,4 @@
+﻿  Random Numbers CPU WITH MORE THAN 2 CORES.cpp
+c:\users\rafxar\source\repos\random numbers cpu with more than 2 cores\random numbers cpu with more than 2 cores\random numbers cpu with more than 2 cores.cpp(11): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\rafxar\source\repos\random numbers cpu with more than 2 cores\random numbers cpu with more than 2 cores\random numbers cpu with more than 2 cores.cpp(16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Random Numbers CPU WITH MORE THAN 2 CORES.vcxproj -> C:\Users\rafxar\source\repos\Random Numbers CPU WITH MORE THAN 2 CORES\Debug\Random Numbers CPU WITH MORE THAN 2 CORES.exe

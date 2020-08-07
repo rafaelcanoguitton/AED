@@ -1,0 +1,4 @@
+﻿  Puntero a funcion.cpp
+c:\users\rafxar\source\repos\puntero a funcion\puntero a funcion\puntero a funcion.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\rafxar\source\repos\puntero a funcion\puntero a funcion\puntero a funcion.cpp(77): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Puntero a funcion.vcxproj -> C:\Users\rafxar\source\repos\Puntero a funcion\Debug\Puntero a funcion.exe

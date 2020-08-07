@@ -1,0 +1,5 @@
+﻿  Functor.cpp
+c:\users\rafxar\source\repos\functor\functor\functor.cpp(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\rafxar\source\repos\functor\functor\functor.cpp(89): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\rafxar\source\repos\functor\functor\functor.cpp(85): warning C4101: 'GSort': unreferenced local variable
+  Functor.vcxproj -> C:\Users\rafxar\source\repos\Functor\Debug\Functor.exe

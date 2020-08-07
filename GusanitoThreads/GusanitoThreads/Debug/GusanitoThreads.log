@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  GusanitoThreads.cpp
+c:\users\rafxar\source\repos\gusanitothreads\gusanitothreads\gusanitothreads.cpp(137): warning C4930: 'std::lock_guard<std::mutex> lock(std::mutex)': prototyped function not called (was a variable definition intended?)
+c:\users\rafxar\source\repos\gusanitothreads\gusanitothreads\gusanitothreads.cpp(159): warning C4930: 'std::lock_guard<std::mutex> lock(std::mutex)': prototyped function not called (was a variable definition intended?)
+c:\users\rafxar\source\repos\gusanitothreads\gusanitothreads\gusanitothreads.cpp(179): warning C4930: 'std::lock_guard<std::mutex> lock(std::mutex)': prototyped function not called (was a variable definition intended?)
+c:\users\rafxar\source\repos\gusanitothreads\gusanitothreads\gusanitothreads.cpp(199): warning C4930: 'std::lock_guard<std::mutex> lock(std::mutex)': prototyped function not called (was a variable definition intended?)
+  GusanitoThreads.vcxproj -> C:\Users\rafxar\source\repos\GusanitoThreads\Debug\GusanitoThreads.exe

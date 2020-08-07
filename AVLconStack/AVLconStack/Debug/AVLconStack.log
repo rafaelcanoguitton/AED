@@ -1,0 +1,5 @@
+﻿  AVLconStack.cpp
+C:\Users\rafxar\source\repos\AVLconStack\AVLconStack\AVLconStack.cpp(228): warning C4715: 'pila<int>::poprear': no todas las rutas de acceso de control devuelven un valor
+C:\Users\rafxar\source\repos\AVLconStack\AVLconStack\AVLconStack.cpp(442): warning C4717: 'Arbol<int>::recursivoDeleterino': recursiva para todas las rutas de acceso de control; la función provocará el desbordamiento de la pila en tiempo de ejecución
+C:\Users\rafxar\source\repos\AVLconStack\AVLconStack\AVLconStack.cpp(210): warning C4715: 'pila<int>::pop': no todas las rutas de acceso de control devuelven un valor
+  AVLconStack.vcxproj -> C:\Users\rafxar\source\repos\AVLconStack\Debug\AVLconStack.exe
