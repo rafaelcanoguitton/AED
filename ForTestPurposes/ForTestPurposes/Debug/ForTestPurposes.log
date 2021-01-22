@@ -1,3 +1,0 @@
-﻿  ForTestPurposes.cpp
-ForTestPurposes.obj : error LNK2019: símbolo externo "public: bool __thiscall ctree<int,struct cless<int> >::insert(int)" (?insert@?$ctree@HU?$cless@H@@@@QAE_NH@Z) sin resolver al que se hace referencia en la función _main
-C:\Users\rafxar\source\repos\ForTestPurposes\Debug\ForTestPurposes.exe : fatal error LNK1120: 1 externos sin resolver

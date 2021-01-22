@@ -1,6 +1,0 @@
-﻿  Red black Tree.cpp
-c:\users\rafxar\source\repos\red black tree\red black tree\red black tree.cpp(122): warning C4018: '<': signed/unsigned mismatch
-  c:\users\rafxar\source\repos\red black tree\red black tree\red black tree.cpp(91): note: while compiling class template member function 'void Tree<int,Less<int>>::Printerino(Node<int> *)'
-  c:\users\rafxar\source\repos\red black tree\red black tree\red black tree.cpp(164): note: see reference to function template instantiation 'void Tree<int,Less<int>>::Printerino(Node<int> *)' being compiled
-  c:\users\rafxar\source\repos\red black tree\red black tree\red black tree.cpp(142): note: see reference to class template instantiation 'Tree<int,Less<int>>' being compiled
-  Red black Tree.vcxproj -> C:\Users\rafxar\source\repos\Red black Tree\Debug\Red black Tree.exe
